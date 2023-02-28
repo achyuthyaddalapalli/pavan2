@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@achyuthyaddalapalli 
-javahometech
-/
-jhc01web
-Public
-Fork your own copy of javahometech/jhc01web
-Code
-Issues
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-jhc01web/pom.xml
-
-javahometech Update pom.xml
-Latest commit 4dfae47 on Oct 12, 2022
- History
- 1 contributor
-66 lines (61 sloc)  2.15 KB
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -49,6 +18,7 @@ Latest commit 4dfae47 on Oct 12, 2022
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -95,18 +65,3 @@ Latest commit 4dfae47 on Oct 12, 2022
     </pluginManagement>
   </build>
 </project>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-jhc01web/pom.xml at main · javahometech/jhc01web
